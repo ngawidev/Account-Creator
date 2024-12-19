@@ -17,7 +17,6 @@ This software is specifically for those of you who want to create Instagram and 
 - Auto Follow
 - Auto Set-Up Two Factory Authentication (2FA)
 - Output Support JSON / CSV
-- Subscribe Now
 
 #### [Subscribe Now](https://www.youtube.com/IoTRobotic)
 
