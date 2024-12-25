@@ -3,6 +3,10 @@ This software is specifically for those of you who want to create Instagram and 
 ###### *Created Using Direct Mobile API Not Using Selenium Or Something Like That*
 #### [Download Now](https://sfl.gl/LZxjHK)
 
+|      |      |      |
+|------|------|------|
+| [TELEGRAM](https://t.me/IoTRobotic)  <br> <div align="center">![Telegram](https://github.com/CLorant/readme-social-icons/raw/main/medium/filled/telegram.svg)</div> | [INSTAGRAM](https://www.instagram.com/andispoetro.id) <br> <div align="center">![Instagram](https://github.com/CLorant/readme-social-icons/raw/main/medium/filled/instagram.svg)</div> | [YOUTUBE](https://youtube.com/c/iotrobotic) <br> <div align="center">![YouTube](https://github.com/CLorant/readme-social-icons/raw/main/medium/filled/youtube.svg)</div> |
+
 ## Description
 - Software Created Using Direct Mobile API
 - Support Proxy
